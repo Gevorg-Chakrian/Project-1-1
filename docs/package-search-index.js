@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"Constants"},{"l":"ExactCalculation"},{"l":"Graph"},{"l":"GraphReduction"},{"l":"LowerBound"},{"l":"PatternRecognition"},{"l":"UpperBound"},{"l":"UpperBound.GA"}]
